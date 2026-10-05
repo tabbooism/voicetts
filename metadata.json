@@ -1,0 +1,6 @@
+{
+  "name": "Voice Cloner and Clip Generator",
+  "description": "An all-in-one voice cloner, custom persona designer, and professional-grade voice clip generator for social media creators and banking agents.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
